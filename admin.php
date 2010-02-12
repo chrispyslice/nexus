@@ -40,7 +40,7 @@
 | NO TRAILING SLASH!
 |
 */
-	$application_folder = "application/site";
+	$application_folder = "application/admin";
 
 /*
 |===============================================================
