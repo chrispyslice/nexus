@@ -8431,3 +8431,944 @@ DEBUG - 2010-02-14 15:34:13 --> Language file loaded: language/english/profiler_
 DEBUG - 2010-02-14 15:34:13 --> Helper loaded: text_helper
 DEBUG - 2010-02-14 15:34:13 --> Final output sent to browser
 DEBUG - 2010-02-14 15:34:13 --> Total execution time: 0.0273
+DEBUG - 2010-02-14 16:04:07 --> Config Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> URI Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> Router Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> Output Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> Input Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:04:07 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:04:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:04:07 --> Language Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:04:07 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:04:07 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:04:07 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:04:07 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:04:07 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:04:07 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:04:07 --> Final output sent to browser
+DEBUG - 2010-02-14 16:04:07 --> Total execution time: 0.0310
+DEBUG - 2010-02-14 16:04:11 --> Config Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> URI Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> No URI present. Default controller set.
+DEBUG - 2010-02-14 16:04:11 --> Router Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> Output Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> Input Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:04:11 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:04:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:04:11 --> Language Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:04:11 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:04:11 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:04:11 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:04:11 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:04:11 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:04:11 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:04:11 --> Final output sent to browser
+DEBUG - 2010-02-14 16:04:11 --> Total execution time: 0.0285
+DEBUG - 2010-02-14 16:09:52 --> Config Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> URI Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> No URI present. Default controller set.
+DEBUG - 2010-02-14 16:09:52 --> Router Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> Output Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> Input Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:09:52 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:09:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:09:52 --> Language Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:09:52 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:09:52 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:09:52 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:09:52 --> Session Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:09:52 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> Session routines successfully run
+DEBUG - 2010-02-14 16:09:52 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:09:52 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:09:52 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:09:52 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:09:52 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:09:52 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:09:52 --> Final output sent to browser
+DEBUG - 2010-02-14 16:09:52 --> Total execution time: 0.0528
+DEBUG - 2010-02-14 16:09:58 --> Config Class Initialized
+DEBUG - 2010-02-14 16:09:58 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:09:58 --> URI Class Initialized
+DEBUG - 2010-02-14 16:09:58 --> Router Class Initialized
+DEBUG - 2010-02-14 16:09:58 --> Output Class Initialized
+DEBUG - 2010-02-14 16:09:58 --> Input Class Initialized
+DEBUG - 2010-02-14 16:09:58 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:09:58 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:09:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:09:58 --> Language Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Config Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> URI Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Router Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Output Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Input Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:10:53 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:10:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:10:53 --> Language Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:10:53 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:10:53 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:10:53 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:10:53 --> Session Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:10:53 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Session routines successfully run
+DEBUG - 2010-02-14 16:10:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:10:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:10:53 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:10:53 --> Model Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Model Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Email Class Initialized
+DEBUG - 2010-02-14 16:10:53 --> Language file loaded: language/english/email_lang.php
+ERROR - 2010-02-14 16:10:53 --> Severity: Notice  --> Trying to get property of non-object /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php 38
+ERROR - 2010-02-14 16:10:53 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Exceptions.php:166) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:10:53 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:10:53 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:10:53 --> Final output sent to browser
+DEBUG - 2010-02-14 16:10:53 --> Total execution time: 0.5228
+DEBUG - 2010-02-14 16:10:56 --> Config Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> URI Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Router Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Output Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Input Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:10:56 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:10:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:10:56 --> Language Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:10:56 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:10:56 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:10:56 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:10:56 --> Session Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:10:56 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Session routines successfully run
+DEBUG - 2010-02-14 16:10:56 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:10:56 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:10:56 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:10:56 --> Model Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Model Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Email Class Initialized
+DEBUG - 2010-02-14 16:10:56 --> Language file loaded: language/english/email_lang.php
+ERROR - 2010-02-14 16:10:56 --> Severity: Notice  --> Trying to get property of non-object /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php 38
+ERROR - 2010-02-14 16:10:56 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Exceptions.php:166) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:10:56 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:10:56 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:10:56 --> Final output sent to browser
+DEBUG - 2010-02-14 16:10:56 --> Total execution time: 0.0806
+DEBUG - 2010-02-14 16:11:27 --> Config Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> URI Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Router Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Output Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Input Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:11:27 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:11:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:11:27 --> Language Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:11:27 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:11:27 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:11:27 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:11:27 --> Session Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:11:27 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Session garbage collection performed.
+DEBUG - 2010-02-14 16:11:27 --> Session routines successfully run
+DEBUG - 2010-02-14 16:11:27 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:11:27 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:11:27 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:11:27 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:55) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:11:27 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:11:27 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:11:27 --> Final output sent to browser
+DEBUG - 2010-02-14 16:11:27 --> Total execution time: 0.0524
+DEBUG - 2010-02-14 16:11:27 --> Config Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> URI Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Router Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Output Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Input Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:11:27 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:11:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:11:27 --> Language Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:11:27 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:11:27 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:11:27 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:11:27 --> Session Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:11:27 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> Session garbage collection performed.
+DEBUG - 2010-02-14 16:11:27 --> Session routines successfully run
+DEBUG - 2010-02-14 16:11:27 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:11:27 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:11:27 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:11:27 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:11:27 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:55) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:11:27 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:11:27 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:11:27 --> Final output sent to browser
+DEBUG - 2010-02-14 16:11:27 --> Total execution time: 0.0456
+DEBUG - 2010-02-14 16:11:28 --> Config Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> URI Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Router Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Output Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Input Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:11:28 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:11:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:11:28 --> Language Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:11:28 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:11:28 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:11:28 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:11:28 --> Session Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:11:28 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> Session routines successfully run
+DEBUG - 2010-02-14 16:11:28 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:11:28 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:11:28 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:11:28 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:11:28 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:55) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:11:28 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:11:28 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:11:28 --> Final output sent to browser
+DEBUG - 2010-02-14 16:11:28 --> Total execution time: 0.0476
+DEBUG - 2010-02-14 16:12:30 --> Config Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> URI Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Router Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Output Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Input Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:30 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:12:30 --> Language Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:12:30 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:12:30 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:12:30 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:12:30 --> Session Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:12:30 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Session routines successfully run
+DEBUG - 2010-02-14 16:12:30 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:12:30 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:12:30 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:12:30 --> Model Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Model Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Model Class Initialized
+DEBUG - 2010-02-14 16:12:30 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:12:30 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:12:30 --> Final output sent to browser
+DEBUG - 2010-02-14 16:12:30 --> Total execution time: 0.0571
+DEBUG - 2010-02-14 16:12:37 --> Config Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> URI Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Router Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Output Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Input Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:37 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:12:37 --> Language Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:12:37 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:12:37 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:12:37 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:12:37 --> Session Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:12:37 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> Session routines successfully run
+DEBUG - 2010-02-14 16:12:37 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:12:37 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:12:37 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:12:37 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:12:37 --> 404 Page Not Found --> auth/hellp
+DEBUG - 2010-02-14 16:12:39 --> Config Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> URI Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Router Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Output Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Input Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:39 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:12:39 --> Language Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:12:39 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:12:39 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:12:39 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:12:39 --> Session Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:12:39 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> Session routines successfully run
+DEBUG - 2010-02-14 16:12:39 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:12:39 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:12:39 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:12:39 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:12:39 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:61) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:12:39 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:12:39 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:12:39 --> Final output sent to browser
+DEBUG - 2010-02-14 16:12:39 --> Total execution time: 0.0476
+DEBUG - 2010-02-14 16:12:40 --> Config Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> URI Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Router Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Output Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Input Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:40 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:12:40 --> Language Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:12:40 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:12:40 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:12:40 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:12:40 --> Session Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:12:40 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Session routines successfully run
+DEBUG - 2010-02-14 16:12:40 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:12:40 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:12:40 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:12:40 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:61) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:12:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:12:40 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:12:40 --> Final output sent to browser
+DEBUG - 2010-02-14 16:12:40 --> Total execution time: 0.0520
+DEBUG - 2010-02-14 16:12:40 --> Config Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> URI Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Router Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Output Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Input Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:40 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:12:40 --> Language Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:12:40 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:12:40 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:12:40 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:12:40 --> Session Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:12:40 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> Session routines successfully run
+DEBUG - 2010-02-14 16:12:40 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:12:40 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:12:40 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:12:40 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:12:40 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:61) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:12:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:12:40 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:12:40 --> Final output sent to browser
+DEBUG - 2010-02-14 16:12:40 --> Total execution time: 0.0551
+DEBUG - 2010-02-14 16:12:43 --> Config Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> URI Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Router Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Output Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Input Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:43 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:12:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:12:43 --> Language Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:12:43 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:12:43 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:12:43 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:12:43 --> Session Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:12:43 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> Session routines successfully run
+DEBUG - 2010-02-14 16:12:43 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:12:43 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:12:43 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:12:43 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:12:43 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:61) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:12:43 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:12:43 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:12:43 --> Final output sent to browser
+DEBUG - 2010-02-14 16:12:43 --> Total execution time: 0.0492
+DEBUG - 2010-02-14 16:14:49 --> Config Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> URI Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Router Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Output Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Input Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:14:49 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:14:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:14:49 --> Language Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:14:49 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:14:49 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:14:49 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:14:49 --> Session Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:14:49 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> Session routines successfully run
+DEBUG - 2010-02-14 16:14:49 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:14:49 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:14:49 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:14:49 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:14:49 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:61) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:14:49 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:14:49 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:14:49 --> Final output sent to browser
+DEBUG - 2010-02-14 16:14:49 --> Total execution time: 0.0483
+DEBUG - 2010-02-14 16:14:54 --> Config Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> URI Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Router Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Output Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Input Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:14:54 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:14:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:14:54 --> Language Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:14:54 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:14:54 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:14:54 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:14:54 --> Session Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:14:54 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Session routines successfully run
+DEBUG - 2010-02-14 16:14:54 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:14:54 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:14:54 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:14:54 --> Model Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Model Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Model Class Initialized
+DEBUG - 2010-02-14 16:14:54 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:14:54 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:14:54 --> Final output sent to browser
+DEBUG - 2010-02-14 16:14:54 --> Total execution time: 0.0615
+DEBUG - 2010-02-14 16:15:00 --> Config Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> URI Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Router Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Output Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Input Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:00 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:15:00 --> Language Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:15:00 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:15:00 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:15:00 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:15:00 --> Session Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:15:00 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> Session routines successfully run
+DEBUG - 2010-02-14 16:15:00 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:15:00 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:15:00 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:15:00 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:15:00 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:61) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:15:00 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:15:00 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:15:00 --> Final output sent to browser
+DEBUG - 2010-02-14 16:15:00 --> Total execution time: 0.0456
+DEBUG - 2010-02-14 16:15:09 --> Config Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> URI Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Router Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Output Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Input Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:09 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:15:09 --> Language Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:15:09 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:15:09 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:15:09 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:15:09 --> Session Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:15:09 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Session routines successfully run
+DEBUG - 2010-02-14 16:15:09 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:15:09 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:15:09 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:15:09 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Email Class Initialized
+DEBUG - 2010-02-14 16:15:09 --> Language file loaded: language/english/email_lang.php
+ERROR - 2010-02-14 16:15:09 --> Severity: Notice  --> Trying to get property of non-object /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php 44
+ERROR - 2010-02-14 16:15:09 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Exceptions.php:166) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:15:09 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:15:09 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:15:09 --> Final output sent to browser
+DEBUG - 2010-02-14 16:15:09 --> Total execution time: 0.0826
+DEBUG - 2010-02-14 16:15:23 --> Config Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> URI Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Router Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Output Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Input Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:23 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:15:23 --> Language Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:15:23 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:15:23 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:15:23 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:15:23 --> Session Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:15:23 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Session routines successfully run
+DEBUG - 2010-02-14 16:15:23 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:15:23 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:15:23 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:15:23 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Email Class Initialized
+DEBUG - 2010-02-14 16:15:23 --> Language file loaded: language/english/email_lang.php
+ERROR - 2010-02-14 16:15:23 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:44) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:15:23 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:15:23 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:15:23 --> Final output sent to browser
+DEBUG - 2010-02-14 16:15:23 --> Total execution time: 0.0779
+DEBUG - 2010-02-14 16:15:29 --> Config Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> URI Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Router Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Output Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Input Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:29 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:15:29 --> Language Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:15:29 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:15:29 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:15:29 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:15:29 --> Session Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:15:29 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Session routines successfully run
+DEBUG - 2010-02-14 16:15:29 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:15:29 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:15:29 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:15:29 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Model Class Initialized
+DEBUG - 2010-02-14 16:15:29 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:15:29 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:15:29 --> Final output sent to browser
+DEBUG - 2010-02-14 16:15:29 --> Total execution time: 0.0549
+DEBUG - 2010-02-14 16:15:31 --> Config Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> URI Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Router Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Output Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Input Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:31 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:15:31 --> Language Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:15:31 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:15:31 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:15:31 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:15:31 --> Session Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:15:31 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> Session routines successfully run
+DEBUG - 2010-02-14 16:15:31 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:15:31 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:15:31 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:15:31 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:15:31 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:61) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:15:31 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:15:31 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:15:31 --> Final output sent to browser
+DEBUG - 2010-02-14 16:15:31 --> Total execution time: 0.0470
+DEBUG - 2010-02-14 16:15:32 --> Config Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> URI Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Router Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Output Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Input Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:32 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:15:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:15:32 --> Language Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:15:32 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:15:32 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:15:32 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:15:32 --> Session Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:15:32 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> Session routines successfully run
+DEBUG - 2010-02-14 16:15:32 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:15:32 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:15:32 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:15:32 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:15:32 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:61) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:15:32 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:15:32 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:15:32 --> Final output sent to browser
+DEBUG - 2010-02-14 16:15:32 --> Total execution time: 0.0527
+DEBUG - 2010-02-14 16:17:16 --> Config Class Initialized
+DEBUG - 2010-02-14 16:17:16 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:17:16 --> URI Class Initialized
+DEBUG - 2010-02-14 16:17:16 --> Router Class Initialized
+DEBUG - 2010-02-14 16:17:16 --> Output Class Initialized
+DEBUG - 2010-02-14 16:17:16 --> Input Class Initialized
+DEBUG - 2010-02-14 16:17:16 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:17:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:17:16 --> Language Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Config Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> URI Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Router Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Output Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Input Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:17:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:17:44 --> Language Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:17:44 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:17:44 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:17:44 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:17:44 --> Session Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:17:44 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> Session routines successfully run
+DEBUG - 2010-02-14 16:17:44 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:17:44 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:17:44 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:17:44 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:17:44 --> 404 Page Not Found --> auth/register_test
+DEBUG - 2010-02-14 16:17:47 --> Config Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> URI Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Router Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Output Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Input Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:17:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:17:47 --> Language Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:17:47 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:17:47 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:17:47 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:17:47 --> Session Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:17:47 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Session routines successfully run
+DEBUG - 2010-02-14 16:17:47 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:17:47 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:17:47 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:17:47 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Email Class Initialized
+DEBUG - 2010-02-14 16:17:47 --> Language file loaded: language/english/email_lang.php
+ERROR - 2010-02-14 16:17:47 --> Severity: Notice  --> Trying to get property of non-object /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php 46
+ERROR - 2010-02-14 16:17:47 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Exceptions.php:166) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:17:47 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:17:47 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:17:47 --> Final output sent to browser
+DEBUG - 2010-02-14 16:17:47 --> Total execution time: 0.0764
+DEBUG - 2010-02-14 16:17:59 --> Config Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> URI Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Router Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Output Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Input Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:17:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:17:59 --> Language Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:17:59 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:17:59 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:17:59 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:17:59 --> Session Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:17:59 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Session routines successfully run
+DEBUG - 2010-02-14 16:17:59 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:17:59 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:17:59 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:17:59 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Model Class Initialized
+DEBUG - 2010-02-14 16:17:59 --> Helper loaded: cookie_helper
+DEBUG - 2010-02-14 16:17:59 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:17:59 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:17:59 --> Final output sent to browser
+DEBUG - 2010-02-14 16:17:59 --> Total execution time: 0.0646
+DEBUG - 2010-02-14 16:18:03 --> Config Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> URI Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Router Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Output Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Input Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:18:03 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:18:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:18:03 --> Language Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:18:03 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:18:03 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:18:03 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:18:03 --> Session Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:18:03 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Session routines successfully run
+DEBUG - 2010-02-14 16:18:03 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:18:03 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:18:03 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:18:03 --> Model Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Model Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Model Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Model Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Model Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Model Class Initialized
+DEBUG - 2010-02-14 16:18:03 --> Helper loaded: cookie_helper
+DEBUG - 2010-02-14 16:18:03 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:18:03 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:18:03 --> Final output sent to browser
+DEBUG - 2010-02-14 16:18:03 --> Total execution time: 0.0654
+DEBUG - 2010-02-14 16:18:06 --> Config Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> URI Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Router Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Output Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Input Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:18:06 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:18:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:18:06 --> Language Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:18:06 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:18:06 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:18:06 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:18:06 --> Session Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:18:06 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> Session routines successfully run
+DEBUG - 2010-02-14 16:18:06 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:18:06 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:18:06 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:18:06 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:18:06 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:59) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:18:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:18:06 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:18:06 --> Final output sent to browser
+DEBUG - 2010-02-14 16:18:06 --> Total execution time: 0.0445
+DEBUG - 2010-02-14 16:18:36 --> Config Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> URI Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Router Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Output Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Input Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:18:36 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:18:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:18:36 --> Language Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:18:36 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:18:36 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:18:36 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:18:36 --> Session Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:18:36 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Session routines successfully run
+DEBUG - 2010-02-14 16:18:36 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:18:36 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:18:36 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:18:36 --> Helper loaded: cookie_helper
+DEBUG - 2010-02-14 16:18:36 --> Model Class Initialized
+DEBUG - 2010-02-14 16:18:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:18:36 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:18:36 --> Final output sent to browser
+DEBUG - 2010-02-14 16:18:36 --> Total execution time: 0.0518
+DEBUG - 2010-02-14 16:20:02 --> Config Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> URI Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Router Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Output Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Input Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:20:02 --> Language Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:20:02 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:20:02 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:20:02 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:20:02 --> Session Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:20:02 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> A session cookie was not found.
+DEBUG - 2010-02-14 16:20:02 --> Session routines successfully run
+DEBUG - 2010-02-14 16:20:02 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:20:02 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:20:02 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> [NX] [LIB] NXController loaded
+DEBUG - 2010-02-14 16:20:02 --> Model Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Model Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Model Class Initialized
+DEBUG - 2010-02-14 16:20:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:20:02 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:20:02 --> Final output sent to browser
+DEBUG - 2010-02-14 16:20:02 --> Total execution time: 0.0536
+DEBUG - 2010-02-14 16:20:07 --> Config Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Hooks Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> URI Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Router Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Output Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Input Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> XSS Filtering completed
+DEBUG - 2010-02-14 16:20:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-02-14 16:20:07 --> Language Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Loader Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Config file loaded: config/nx_config.php
+DEBUG - 2010-02-14 16:20:07 --> Helper loaded: form_helper
+DEBUG - 2010-02-14 16:20:07 --> Helper loaded: url_helper
+DEBUG - 2010-02-14 16:20:07 --> Database Driver Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Form Validation Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> DX Auth Initialized
+DEBUG - 2010-02-14 16:20:07 --> Session Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Helper loaded: string_helper
+DEBUG - 2010-02-14 16:20:07 --> Encrypt Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> Session routines successfully run
+DEBUG - 2010-02-14 16:20:07 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-02-14 16:20:07 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-02-14 16:20:07 --> Controller Class Initialized
+DEBUG - 2010-02-14 16:20:07 --> [NX] [LIB] NXController loaded
+ERROR - 2010-02-14 16:20:07 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/nexus/system/application/admin/controllers/auth.php:63) /Applications/XAMPP/xamppfiles/htdocs/nexus/system/libraries/Output.php 230
+DEBUG - 2010-02-14 16:20:07 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2010-02-14 16:20:07 --> Helper loaded: text_helper
+DEBUG - 2010-02-14 16:20:07 --> Final output sent to browser
+DEBUG - 2010-02-14 16:20:07 --> Total execution time: 0.0496
